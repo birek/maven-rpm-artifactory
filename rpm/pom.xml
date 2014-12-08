@@ -25,7 +25,8 @@
           <execution>
             <id>generate-rpm</id>
             <goals>
-              <goal>attached-rpm</goal>
+              <goal>rpm</goal>
+              <!--goal>attached-rpm</goal-->
             </goals>
           </execution>
         </executions>
